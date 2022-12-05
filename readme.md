@@ -1,4 +1,4 @@
-## Deskripsi Aplikasi 
+## Deskripsi Aplikasi Sudah di Modifikasi
 Source Code Aplikasi Penjualan Items sederhana berbasis Website dengan PHP & MYSQL.
 
 ## Setting Koneksi PHP
@@ -34,6 +34,10 @@ Password : 123
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/7.png">
 
 ## Changelog
+05 Desember 2022<br>
+- Tambah Menu Pelanggan
+- Tambah Item Jasa
+
 31 Januari 2021<br>
 - Tambah Sortir khusus stok kurang dari >= 3
 - Cari Per Tanggal Laporan 
